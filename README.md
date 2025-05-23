@@ -1,4 +1,4 @@
-## Luke Ghallahorne
+# Luke Ghallahorne
 
 [LinkedIn](https://www.linkedin.com/in/lukeghallahorne/)
 [GitHub](https://github.com/lukeghallahorne)
@@ -10,7 +10,7 @@ While my latest experience focuses on marine ecology and environmental statistic
 This site contains prior work of mine, primarily as a graduate student at Western Washington University. This includes projects and assignments from the Data Science for Environmental Applications Certificate program, as well as the Olympia oyster Dispersal Model and other data science work. Use the links below to navigate between projects, or see the source code in the associated GitHub repository.
 
 # Portfolio
-## [Data Science for Environmental Applications] (https://lukeghallahorne.github.io/DataScience4EnviroApps/)
+## [Data Science for Environmental Applications](https://lukeghallahorne.github.io/DataScience4EnviroApps/)
 This portfolio contains work related to the graduate certificate in data science for environmental applications through Western Washington University. All coursework and seminar material was completed between Sep 2023 and Jun 2025. The certificate consists of three graduate-level statistics courses (ESCI502 Applied Statistics in Environmental Science, ESCI503 Multivariate Statistics, and ESCI505 Spatial Analysis) as well as three online seminars focusing on data visualization, machine learning, and ShinyApp development.
 
 [Online Portfolio](https://lukeghallahorne.github.io/DataScience4EnviroApps/)
